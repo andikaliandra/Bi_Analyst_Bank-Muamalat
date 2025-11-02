@@ -1,0 +1,49 @@
+🏦 BI Analyst – Bank Muamalat Virtual Internship Experience
+Repository ini berisi hasil pengerjaan Final Challenge Program Virtual Internship Experience sebagai Business Intelligence Analyst di Bank Muamalat.
+
+📋 Deskripsi Proyek
+Proyek ini bertujuan untuk melakukan analisis data penjualan PT Sejahtera Bersama menggunakan Google BigQuery dan Looker Studio, untuk memberikan insight serta rekomendasi strategis dalam meningkatkan performa penjualan perusahaan.
+📂 Struktur Repository
+📁 Bi_Analyst_Bank-Muamalat/
+│
+├── datasets/                # Data mentah
+├── queries/                 # Rumus query SQL BigQuery
+├── reports/                 # Laporan hasil analisis
+├── visualizations/          # Screenshot atau file Looker Studio
+└── README.md                # Deskripsi proyek
+
+🧠 Tools yang Digunakan
+Google BigQuery – eksplorasi dan pengolahan data
+Looker Studio – visualisasi data interaktif
+Google Sheets / Excel – pengolahan data tambahan
+GitHub – dokumentasi hasil proyek
+
+🧩 Challenge Overview
+1. Menentukan Primary Key pada tabel Customer, Product, Orders, dan ProductCategory
+2. Menentukan Relationship antar keempat tabel
+3. Membuat Master Table dengan kolom:
+   -CustomerEmail
+   -CustomerCity
+   -OrderDate
+   -OrderQty
+   -ProductName
+   -ProductPrice
+   -ProductCategoryName
+   -TotalSales
+4. Membuat Visualisasi di Looker Studio, meliputi:
+   -Total Sales keseluruhan
+   -Sales & Quantity berdasarkan kategori produk
+   -Sales & Quantity berdasarkan kota
+   -Top 5 kategori produk dengan sales & qty tertinggi
+   -Memberikan Rekomendasi Strategis untuk mempertahankan atau meningkatkan penjualan
+
+📊 Hasil Visualisasi
+Link Looker Studio Report: https://lookerstudio.google.com/s/u6TEXJk7fbE
+
+💡 Rekomendasi
+1. Fokus pada kategori dengan kontribusi tertinggi
+2. Analisis tren kota dengan penjualan terbanyak untuk strategi distribusi
+3. Tingkatkan customer engagement melalui promosi dan program loyalitas
+
+💬 Disusun oleh:
+Liandra Andika – peserta Virtual Internship Experience Bank Muamalat – Business Intelligence Analyst
